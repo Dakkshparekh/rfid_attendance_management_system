@@ -1,6 +1,3 @@
-# rfid_attendance_management_system
-Sure! Here’s a professional README you can use on your LinkedIn or GitHub to showcase your RFID attendance system project, highlighting the hardware and software components as well as the full-stack integration with the Node.js backend and MongoDB database.
-
 # RFID Attendance System with ESP32, Node.js & MongoDB
 
 ### Overview  
