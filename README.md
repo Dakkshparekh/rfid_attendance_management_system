@@ -103,5 +103,3 @@ app.post('/attendance', async (req, res) => {
 
 ### Contact  
 Feel free to connect with me or ask for further details about this project or similar IoT & Embedded systems work.
-
-Would you like me to help you format it for a GitHub README file or LinkedIn project description specifically?
